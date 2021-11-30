@@ -1,2 +1,1 @@
-# NinoArteiroRebellion---NFT-Contract
-Contract code (NFT) of Nino Arteiro
+Vamo ver se da boa
